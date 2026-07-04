@@ -30,11 +30,10 @@ My next major goal is diving into FPGAs. These circuits absolutely fascinate me.
 
 ## Project Directory
 
-* **Nand2Tetris:** A software project where I build a modern computer system entirely in a simulated environment, starting from basic logic gates all the way to a high level operating system.
-* **8 Bit Breadboard Microcomputer:** A completely physical hardware build where I construct a custom Von Neumann architecture entirely out of real, discrete 74HC CMOS logic chips to master the hardware and software interface with my own hands.
-* **Lorenz Attractor Simulation:** A project where I focus on conducting academic research, mathematical visualization, and modeling chaos theory to produce meaningful, well documented results.
+* **16-Bit HDL Microarchitecture:** Implementing a custom 16-bit CPU, ALU, and memory system from the ground up using a simplified beginner Hardware Description Language.
 
 ## Connect
 
 * [LinkedIn](https://linkedin.com/in/abdelrahman-abouzeid-96145b372)
 * [GitHub](https://github.com/abdelrahmanmagdy7077/)
+
