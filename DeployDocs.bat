@@ -1,3 +1,3 @@
 @echo off
-mkdocs gh-deploy
+mkdocs gh-deploy --force
 pause

@@ -1,4 +1,7 @@
-site_name: Abdelrahman's Engineering Notebook # <-- Update this
+site_name: Abdelrahman's Engineering Notebook
+site_url: https://abdelrahmanmagdy7077.github.io/Abdelrahman-Engineering-Notebook/
+repo_url: https://github.com/abdelrahmanmagdy7077/Abdelrahman-Engineering-Notebook
+
 theme:
   name: material
   palette:
@@ -34,7 +37,7 @@ nav:
      # - The Common Bus:
       
   - 16-Bit HDL Microarchitecture: 
-       - Introduction: intro.md
+       - Introduction: 16-Bit HDL Microarchitecture/Intro.md
      # - Combinational Datapath: 
     #  - Memory Architecture: 
       #- CPU Integration and Control:
@@ -45,7 +48,7 @@ nav:
      # - Compiler Frontend:
      # - Compiler Backend:
     #  - Operating System:
-  #- Math & Physics Simulations:
-      ##- Lorenz Attractor (Manim): math/lorenz-attractor.md
+ #- Math & Physics Simulations:
+     ##- Lorenz Attractor (Manim): math/lorenz-attractor.md
  # - FPGA & SystemVerilog:
   #    - Setup & First Steps: fpga/intro.md

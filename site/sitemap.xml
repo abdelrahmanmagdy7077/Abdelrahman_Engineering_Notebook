@@ -1,3 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://abdelrahmanmagdy7077.github.io/Abdelrahman-Engineering-Notebook/</loc>
+         <lastmod>2026-07-04</lastmod>
+    </url>
+    <url>
+         <loc>https://abdelrahmanmagdy7077.github.io/Abdelrahman-Engineering-Notebook/16-Bit%20HDL%20Microarchitecture/Intro/</loc>
+         <lastmod>2026-07-04</lastmod>
+    </url>
+    <url>
+         <loc>https://abdelrahmanmagdy7077.github.io/Abdelrahman-Engineering-Notebook/8bit-cpu/alu/</loc>
+         <lastmod>2026-07-04</lastmod>
+    </url>
+    <url>
+         <loc>https://abdelrahmanmagdy7077.github.io/Abdelrahman-Engineering-Notebook/8bit-cpu/architecture/</loc>
+         <lastmod>2026-07-04</lastmod>
+    </url>
+    <url>
+         <loc>https://abdelrahmanmagdy7077.github.io/Abdelrahman-Engineering-Notebook/8bit-cpu/clock-module/</loc>
+         <lastmod>2026-07-04</lastmod>
+    </url>
 </urlset>
