@@ -1,4 +1,4 @@
-site_name: 8-Bit Computer Build Log
+site_name: Abdelrahman's Engineering Notebook # <-- Update this
 theme:
   name: material
   palette:
@@ -19,3 +19,33 @@ extra_javascript:
   - javascripts/mathjax.js
   - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+
+nav:
+  - Home: index.md
+ # - Discrete 8-Bit Microcomputer:
+     # - Introduction:
+      #- The Clock:
+     # - Registers:
+     # - Arithmetic Logic Unit:
+     # - Random Access Memory & Memory Address Register:
+     # - Program Counter:
+     # - Output Register:
+     # - CPU Control Logic:
+     # - The Common Bus:
+      
+  - 16-Bit HDL Microarchitecture: 
+       - Introduction: intro.md
+     # - Combinational Datapath: 
+    #  - Memory Architecture: 
+      #- CPU Integration and Control:
+ # - Custom Compiler & Base Operating System:
+     # - Introduction:
+     # - Assembler:
+    #  - Virtual Machine Translator:
+     # - Compiler Frontend:
+     # - Compiler Backend:
+    #  - Operating System:
+  #- Math & Physics Simulations:
+      ##- Lorenz Attractor (Manim): math/lorenz-attractor.md
+ # - FPGA & SystemVerilog:
+  #    - Setup & First Steps: fpga/intro.md
