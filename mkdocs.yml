@@ -38,8 +38,8 @@ nav:
       
   - 16-Bit HDL Microarchitecture: 
        - Introduction: 16-Bit HDL Microarchitecture/Intro.md
-     # - Combinational Datapath: 
-    #  - Memory Architecture: 
+       - Logic:  16-Bit HDL Microarchitecture/Logic.md
+       - Arithmetic: 16-Bit HDL Microarchitecture/Arithmetic.md
       #- CPU Integration and Control:
  # - Custom Compiler & Base Operating System:
      # - Introduction:
