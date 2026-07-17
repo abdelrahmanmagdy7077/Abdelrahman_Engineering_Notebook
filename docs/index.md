@@ -4,7 +4,7 @@ Hi, I am Abdelrahman Abouzied. I created this site to freely log my progress on 
 
 ## Who Am I
 
-I am an Egyptian engineering student with a strong focus on electronics. The career path I am pursuing is rooted in low level computer architecture, with a massive interest in FPGA development. I am fascinated by how a component as simple as a transistor revolutionized human history, shaping the scale of our present world. Even more fundamentally, the discovery of electricity completely altered the course of humanity, and knowing it was harnessed so recently in our history is genuinely unbelievable.
+I am an Egyptian engineering student with a strong focus on electronics. The career path I am pursuing is rooted in low-level computer architecture, with a massive interest in FPGA development. Ultimately, my dream career lies in ASIC design, VLSI, or hardware verification. I am fascinated by how a component as simple as a transistor revolutionized human history, shaping the scale of our present world. Even more fundamentally, the discovery of electricity completely altered the course of humanity, and knowing it was harnessed so recently in our history is genuinely unbelievable.
 
 I love to learn, and I want to keep learning for as long as I can. However, I strongly believe that learning must serve a pragmatic purpose. As much as I enjoy acquiring knowledge, I love implementing what I have learned to build something meaningful. I am lucky enough to have found a field that perfectly aligns with my love for learning, my drive to implement theory, and my passion for the entire technology stack, from a single electron all the way up to high level programming languages.
 
@@ -14,7 +14,7 @@ My philosophy is simple: I learn by doing. If I am going to invest a lot of time
 
 I completely avoid blindly copying tutorials for my projects. While I allow myself to follow step by step guides when initially grasping a new subject, since, like most people, I learn best through hands on implementation, I always make sure never to copy and paste when building a project of my own.
 
-Why? Because that is how true learning happens. It is the best way to prove you actually understand a concept. Finally, what makes an engineer unique and opens the door to real discovery is the willingness to go beyond what the teacher taught and build something original.
+Why? Because that is how true learning happens. It is the best way to prove you actually understand a concept. Finally, what makes an engineer unique and opens the door to real discovery is the willingness to go beyond what the teacher taught and build something new and original.
 
 ## How I Use AI
 

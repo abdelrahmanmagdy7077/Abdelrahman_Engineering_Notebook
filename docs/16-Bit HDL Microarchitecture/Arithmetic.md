@@ -1,0 +1,6 @@
+The second project focused on building the arithmetic core of the computer, culminating in the Arithmetic Logic Unit. I started by designing a Half Adder and a Full Adder to handle single-bit addition, combined them into a 16-bit adder, and then used those pieces to build the ALU. This was a step up from the first project since I was moving past basic logic gates and actually putting together a circuit that can perform standard mathematical and logical operations.
+
+
+
+The most practical takeaway from this project was working with two's complement and seeing how much it simplifies hardware design. Because of how two's complement represents negative numbers, the computer doesn't need a dedicated circuit for subtraction. A standard adder can handle both addition and subtraction without any extra modifications, which saves a lot of unnecessary complexity. Building the ALU also made it clear how a CPU actually executes different operations. Instead of having separate circuits for every single calculation, the Hack ALU is just one circuit that routes inputs through different logic paths based on six control bits. It was a solid demonstration of how relying on the abstractions from the first project makes it possible to design a functional, multi-use component without getting bogged down in gate-level details.
+
